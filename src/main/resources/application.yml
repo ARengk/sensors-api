@@ -1,0 +1,7 @@
+api:
+  sensors:
+    url: https://newcastle.urbanobservatory.ac.uk/api/v1.1/sensors/PER_AIRMON_MESH1761150/json/
+
+
+server:
+  port: 8081
