@@ -27,8 +27,5 @@ public class SensorsServiceImpl implements SensorsService{
         System.out.println(result.toString());
 
         return result;
-
     }
-
-
 }
